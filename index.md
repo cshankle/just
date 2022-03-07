@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# 20 Years of More SMCM Data than You Could Possibly Want
+### Name
 
-You can use the [editor on GitHub](https://github.com/cshankle/just/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Through my data exploration, I really wanted to look at change at St. Mary's throughout the 20 year period. I've gotten to know SMCM in a very strange time period - to understate it. By examining this data, I hoped to start to see the general arc of culture at St. Mary's. Although I didn't go to in depth to this for my data exploration, one interesting aspect of the data was the student life section. In this section, it listed major involvements that college campuses might offer and whether we had them. Seeing how these changed throughout the 20 year period was very interesting. 
 
-### Markdown
+My other interest in this data came from my work with the Admission Office. In the office, we think a lot about who we are attracting to the college, growing our student body, and retaining students. By exploring demographics, retention, and cost throughout the 20 year period of time, we can find patterns and see where it is better to focus time and energy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Dataset
 
-```markdown
-Syntax highlighted code block
+I found this data on the SMCM page for institutional research under the tab Common Data Set. The college collects 
+Describe your data set, including a link to the data. 
+- What is this data about?
+- Who collected or produced this dataset? Why?
+- Why are you interested in it?
 
-# Header 1
-## Header 2
-### Header 3
+## Initial Questions
 
-- Bulleted
-- List
+- What initially drew you to this data? 
+- What were you currious about? 
 
-1. Numbered
-2. List
+    QUESTION 1
+    QUESTION 2
+    QUESTION 3
+  
+- What questions came up as you worked with the data? 
+- Was there anything that surprised you about the data?
+- Was it easy to work with or did you have to clean or "wrangle" the data?
 
-**Bold** and _Italic_ and `Code` text
+## Discoveries & Insights
 
-[Link](url) and ![Image](src)
-```
+Images should be large and easy to see and interperate. 
+Captions underneath should be 20-70 words long.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Conclusion
 
-### Jekyll Themes
+Final summary of the data and what you found during this project.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cshankle/just/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Sources
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Did any sources help you understand your data better? Make sure to cite them.
