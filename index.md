@@ -9,7 +9,7 @@ My other interest in this data came from my work with the Admission Office. In t
 
 ## Dataset
 
-I found this data on the SMCM page for institutional research under the tab Common Data Set. The college collects 
+I found this data on the SMCM page for institutional research under the tab Common Data Set. The college collects data about student body and faculty every year then releases it to the public.
 Describe your data set, including a link to the data. 
 - What is this data about?
 - Who collected or produced this dataset? Why?
