@@ -9,29 +9,30 @@ My other interest in this data came from my work with the Admission Office. In t
 
 ## Dataset
 
-I found this data on the SMCM page for institutional research under the tab Common Data Set. The college collects data about student body and faculty every year then releases it to the public on the institutional research part of the school website. They have been collecting this data since 2002, so it offers up a pretty nice picture of modern SMCM history. In its original form, the data is formatted as a pdf with all of the information for that school year. Because of this, I had to transcribe all of the data into an excel spreadsheet in order to work with it.
+I found this data on the SMCM page for institutional research under the tab Common Data Set. The college collects data about student body and faculty every year then releases it to the public on the institutional research part of the school website. They have been collecting this data since 2002, so it offers up a pretty nice picture of modern SMCM history. The Office of Institutional Research tracks this data to make improvements and to see how we are doing as a school. In its original form, the data is formatted as a pdf with all of the information for that school year. Because of this, I had to transcribe all of the data into an excel spreadsheet in order to work with it.
 
 Links to my data:
 * [Original Data] (https://www.smcm.edu/ir/about-st-marys/common-data-set/)
 * [Cleaned up Data] (https://github.com/cshankle/just/blob/main/SMCM.xlsx)
-Describe your data set, including a link to the data. 
-- What is this data about?
-- Who collected or produced this dataset? Why?
-- Why are you interested in it?
+
 
 ## Initial Questions
 
-- What initially drew you to this data? 
-- What were you currious about? 
+I knew that I wanted to look at data about my school, so then it was a matter of figuring out which dataset would be the most interesting to look at. I chose the common data set over other datasets because it looked at more fields and it was the raw data. Other data sets had already been analyzed. When looking at the data, I was most curious about how different demographics have shifted over the years and about how cost has changed. Some questions that I had initially were:
+- How has the makeup of the faculty changed in this time period?
+    - Is the faculty more diverse?
+    - Are there more women faculty?
+- How does the makeup of the student body compare to the makeup of the faculty?
+    - Are the two proportional?
+- Can we track enrollment to total student body population? In otherwords, does the number of students that we attract each year correlate to changes in the whole population?
 
-    QUESTION 1
-    QUESTION 2
-    QUESTION 3
+I didn't find a lot of the numbers very surprising in the data. I've gotten a pretty accurate picture of our student body through my work at the Office of Admission, so I knew what to expect in terms of student body demographics. However, I did find the consistently low number of underrepresented faculty  surprising. I was also surprised by how the undergraduate population and yearly enrollment numbers changed because that info contradicted what faculty members at the school have told me. I was a little surprised by the fact that they do not collect data about sexuality and other LGBTQ+ data points. 
+
+I definitely had to wrangle the data since it didn't come in a usable format. This was fun as it allowed me to choose the fields to keep. There are some other notes as well:
+- There were two school years in which the school didn't collect data. Because of this, there is often a break in my graphs where tableau couldn't extrapolate the info. These years were 2003-2004 and 2004-2005.
+- The school combined Asian and Hawaiian, Pacific Islander and didn't include Two or more races as an option until the 2010-2011 school year. This impacts the numbers and probably contributes to a greater number of unknown responses. 
+- There were a few  years in which the school didn't have data on tuition costs, so there is another break in the graphs there.
   
-- What questions came up as you worked with the data? 
-- Was there anything that surprised you about the data?
-- Was it easy to work with or did you have to clean or "wrangle" the data?
-
 ## Discoveries & Insights
 
 Images should be large and easy to see and interperate. 
