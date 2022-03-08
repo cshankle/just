@@ -35,8 +35,7 @@ I definitely had to wrangle the data since it didn't come in a usable format. Th
   
 ## Discoveries & Insights
 
-Images should be large and easy to see and interperate. 
-Captions underneath should be 20-70 words long.
+ <img src ="https://cshankle.github.io/just/hw4/in%20state%20and%20out%20of%20state%20costs.PNG" width = "450" height = "325" >
 
 ## Conclusion
 
