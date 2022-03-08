@@ -59,4 +59,4 @@ I definitely had to wrangle the data since it didn't come in a usable format. Th
 I thought this project was very interesting and that it shed new light on our school's recent history. While the growth of underrepresented group in the student body has been significant, there needs to be more work for the faculty to accurately represent the population. If I continued this project, I would want to look at other aspects of the school history then match these data points to those. I would also want to take a general Maryland census data set and compare our numbers/demographics to those of the whole state.
 
 ## Sources
-- (https://www.smcm.edu/ir/)
+- https://www.smcm.edu/ir/
