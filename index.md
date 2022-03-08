@@ -13,6 +13,7 @@ I found this data on the SMCM page for institutional research under the tab Comm
 
 Links to my data:
 * [Original Data] (https://www.smcm.edu/ir/about-st-marys/common-data-set/)
+* [Cleaned up Data] (https://github.com/cshankle/just/blob/main/SMCM.xlsx)
 Describe your data set, including a link to the data. 
 - What is this data about?
 - Who collected or produced this dataset? Why?
