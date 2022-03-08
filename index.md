@@ -36,7 +36,7 @@ I definitely had to wrangle the data since it didn't come in a usable format. Th
 ## Discoveries & Insights
 
 ### Basic Facts: Cost and Overall Enrollment Stats
- <img src ="https://cshankle.github.io/just/hw4/in%20state%20and%20out%20of%20state%20costs.PNG" width = "600" height = "600" >
+ <img src ="https://cshankle.github.io/just/hw4/in%20state%20and%20out%20of%20state%20costs.PNG" width = "750" height = "600" >
 
 ## Conclusion
 
