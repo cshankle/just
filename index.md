@@ -37,24 +37,44 @@ I definitely had to wrangle the data since it didn't come in a usable format. Th
 
 ### Basic Facts: Cost and Overall Enrollment Stats
  <img src ="https://cshankle.github.io/just/hw4/in%20state%20and%20out%20of%20state%20costs.PNG" width = "750" height = "600" > <br>
+ This graph depicts the scatter plots of In State Tuition and Out of State Tuition together. I chose to plot the two together to compare how the prices have changed over the years. In State Tuition has remained cheaper than Out of State Tuition since 2001. In addition, Out of State Tuition has increased at a faster rate than In State Tuition.
+ 
  <img src ="https://cshankle.github.io/just/hw4/enroll%20vs%20total.PNG" width = "750" height = "600" >
+ This chart plots the total number of students compared with the number of students enrolled that year. This highlights how yearly enrollment numbers have changed over the period of 20 years and how the total student body has changed over the period of 20 years. This highlights an interesting fact. While the total student body grew then started to decline, the enrollment rate declined slightly during the 20 year period and in the most recent year grew to its highest rate for the whole period. This suggests that our student body is shrinking because we aren't retaining students rather than our ability to attract students.
 
 ### Dive into Student Demographics
  <img src ="https://cshankle.github.io/just/hw4/sheet1.PNG" width = "750" height = "600" > <br>
+ This bar chart shows the makeup of the SMCM undergraduate population between the years 2001 and 2020.  This chart gives an overview of all of the racial and ethnic demographics at the school, but doesn't allow us to see significant details yet. What is clear though, is that the student body is predominantly white. The second most populous portion of the student body are Black students. 
+
  <img src ="https://cshankle.github.io/just/hw4/proportion%20of%20students.PNG" width = "750" height = "600" > <br>
+ This chart solves the problem that we encountered with the first chart. Although we could see that there were significantly more white students than students of underrepresented groups at SMCM, we couldn't see how the proportions changed over time as compared to the whole student body. This graph compares the percentage of white students to the percentage of students who are part of underrepresented groups. From this chart, we can see that the percentage of white students has been decreasing slowly since the early 2000s as the proportion of students of underrepresented groups has grown.
+ 
 ### Faculty Demographics
  <img src ="https://cshankle.github.io/just/hw4/faculty%20underrepresented.PNG" width = "750" height = "600" > <br>
+ This chart compares the composition of Faculty each year. It shows the proportion white faculty and faculty who are part of underrepresented groups to the total number of faculty for that year. This chart shows that there is a small number of underrepresented faculty members and that that number has remained pretty steady.
+ 
  <img src ="https://cshankle.github.io/just/hw4/percent%20faculty%20underrepresented.PNG" width = "750" height = "600" > <br>
+ This chart shows the proportion of SMCM faculty members who are part of underrepresented groups compared to white faculty members. It is presented as a decimal out of 1 or as a percent. The chart shows that there has not been a significant increase in underrepresented faculty members and that the number of underrepresented faculty members has not risen above 20% in the 20 years of tracking. One thing to note is that there were a few years where this data was not tracked.
+ 
 ### Student and Faculty Demographics compared
  <img src ="https://cshankle.github.io/just/hw4/underrep%20compared%20to%20underrep.PNG" width = "750" height = "600" > <br>
+ This chart compares the proportion of underrepresented students to the total undergraduate body with the proportion of underrepresented faculty to the total number of faculty. The chart shows that while there has been growth among the student population, the proportion of faculty has changed very little throughout the years. It is also much lower than the student proportion, which is not ideal.
+ 
  <img src ="https://cshankle.github.io/just/hw4/underrep%20with%201.PNG" width = "750" height = "600" > <br>
+ This chart compares the proportion of underrepresented students to the total undergraduate body with the proportion of underrepresented faculty to the total number of faculty. The chart shows that while there has been growth among the student population, the proportion of faculty has changed very little throughout the years. It is also much lower than the student proportion, which is not ideal. This chart changes the scale of the verticle axis to 1 to provide more scale.
 
 ### Dive into Student Gender Stats
  <img src ="https://cshankle.github.io/just/hw4/undergraduate%20gender.PNG" width = "750" height = "600" > <br>
+ This graph shows the change in the gender makeup of the SMCM Undergraduate population. The graph is based off the data of full time students. This means it excludes part time students from the data. Less men than women attend SMCM, but the lines show similar trends of growth and decline.
+ 
 ### Faculty Gender Stats
  <img src ="https://cshankle.github.io/just/hw4/Faculty%20Gender.PNG" width = "750" height = "600" > <br>
+ This graph shows how the gender makeup of faculty at SMCM has changed since 2001. The orange line represents women faculty members while the blue line represents men faculty members. Until 2018, there were more men faculty members than women faculty members. In 2018, the trend changed and there were more women faculty than men. This reflects the gender composition of the student body better than previously, since there are more women than men at SMCM.
+ 
 ### Student and Faculty Gender Stats Compared
  <img src ="https://cshankle.github.io/just/hw4/women%20comparison.PNG" width = "750" height = "600" > <br>
+ This chart plots the proportion of Full-time women undergraduate students to total undergraduate students along with the proportion of women faculty members to total faculty members. In the chart, we can see that women faculty members make up a smaller percentage of faculty than women students in the student body. We can also see that both populations increased in comparison to their total populations.
+ 
 ## Conclusion
 I thought this project was very interesting and that it shed new light on our school's recent history. While the growth of underrepresented group in the student body has been significant, there needs to be more work for the faculty to accurately represent the population. If I continued this project, I would want to look at other aspects of the school history then match these data points to those. I would also want to take a general Maryland census data set and compare our numbers/demographics to those of the whole state.
 
