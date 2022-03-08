@@ -36,8 +36,25 @@ I definitely had to wrangle the data since it didn't come in a usable format. Th
 ## Discoveries & Insights
 
 ### Basic Facts: Cost and Overall Enrollment Stats
- <img src ="https://cshankle.github.io/just/hw4/in%20state%20and%20out%20of%20state%20costs.PNG" width = "750" height = "600" >
+ <img src ="https://cshankle.github.io/just/hw4/in%20state%20and%20out%20of%20state%20costs.PNG" width = "750" height = "600" > <br>
+ <img src ="https://cshankle.github.io/just/hw4/enroll%20vs%20total.PNG" width = "750" height = "600" >
 
+### Dive into Student Demographics
+ <img src ="https://cshankle.github.io/just/hw4/sheet1.PNG" width = "750" height = "600" > <br>
+ <img src ="https://cshankle.github.io/just/hw4/proportion%20of%20students.PNG" width = "750" height = "600" > <br>
+### Faculty Demographics
+ <img src ="https://cshankle.github.io/just/hw4/faculty%20underrepresented.PNG" width = "750" height = "600" > <br>
+ <img src ="https://cshankle.github.io/just/hw4/percent%20faculty%20underrepresented.PNG" width = "750" height = "600" > <br>
+### Student and Faculty Demographics compared
+ <img src ="https://cshankle.github.io/just/hw4/underrep%20compared%20to%20underrep.PNG" width = "750" height = "600" > <br>
+ <img src ="https://cshankle.github.io/just/hw4/underrep%20with%201.PNG" width = "750" height = "600" > <br>
+
+### Dive into Student Gender Stats
+ <img src ="https://cshankle.github.io/just/hw4/undergraduate%20gender.PNG" width = "750" height = "600" > <br>
+### Faculty Gender Stats
+ <img src ="https://cshankle.github.io/just/hw4/Faculty%20Gender.PNG" width = "750" height = "600" > <br>
+### Student and Faculty Gender Stats Compared
+ <img src ="https://cshankle.github.io/just/hw4/women%20comparison.PNG" width = "750" height = "600" > <br>
 ## Conclusion
 
 Final summary of the data and what you found during this project.
