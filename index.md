@@ -12,7 +12,7 @@ My other interest in this data came from my work with the Admission Office. In t
 I found this data on the SMCM page for institutional research under the tab Common Data Set. The college collects data about student body and faculty every year then releases it to the public on the institutional research part of the school website. They have been collecting this data since 2002, so it offers up a pretty nice picture of modern SMCM history. The Office of Institutional Research tracks this data to make improvements and to see how we are doing as a school. In its original form, the data is formatted as a pdf with all of the information for that school year. Because of this, I had to transcribe all of the data into an excel spreadsheet in order to work with it.
 
 Links to my data:
-* [Original data] (https://www.smcm.edu/ir/about-st-marys/common-data-set/)
+* [Original data](https://www.smcm.edu/ir/about-st-marys/common-data-set/)
 * Cleaned up data: (https://github.com/cshankle/just/blob/main/SMCM.xlsx)
 
 
